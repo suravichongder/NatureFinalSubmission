@@ -1,0 +1,22 @@
+private routes to be implemented- done
+unwanted code needs to be removed- done
+for static file- config file need to be made
+naming convention of files- done
+put all css code in external file and save and import it- done
+Footer.jsx- line 37( dont use ul- incorporate array concept and use map function) -done
+Virtual dom- key passed in map(unique)-cartItem.jsx, orderList.jsx,cart.jsx(84,85,86)-done
+Nav.jsx-- line 17(useRef to be used)27,28 line(synthetic query), line 19(useState to be used)
+
+Readme file
+recommended node version-done
+
+
+
+
+1. responsive-mobile
+2. null checks- backend and frontend
+3. state of place order button should be disabled
+4. dictonary view
+5. contact us and feedback should empty after submitting
+6. register should be cleared after the user is registered
+7. card overlapping in product

@@ -1,0 +1,151 @@
+/* .container { 
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+@media only screen and (min-width: 768px) {
+  .menu {
+    width: 20%;
+  }
+
+  .mainPic {
+    width: 100%;
+  }
+
+  .loginBlock {
+    width: 100%;
+  }
+
+  .bonsai {
+    width: 100%;
+  }
+
+  .follow {
+    width: 25%;
+  }
+
+  .support {
+    width: 50%;
+  }
+
+  .account {
+    width: 75%;
+  }
+
+  .useful {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .menu {
+    display: none;
+  }
+
+  .mainPic img {
+    width: 100%;
+    height: auto;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .header img {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .header span {
+    padding: 0px 0px 0px -30px;
+    margin: 0px 0 0 0px;
+    font-size: 0.6em;
+    float: left;
+  }
+
+  .header h2 {
+    font-size: 1em;
+    margin: 0px;
+  }
+
+  .header p a {
+    font-size: 0.9em;
+    padding: 10px 3px;
+    margin: 0px;
+  }
+
+  .header p {
+    font-size: 0.7em;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .nav {
+    width: 100%;
+    height: auto;
+  }
+
+  .overview {
+    position: absolute;
+    top: 180px;
+    left: 50px;
+    width: 25%;
+    height: auto;
+    line-height: 10px;
+  }
+
+  footer {
+    margin-top: 15px;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+  }
+
+  .follow,
+  .support,
+  .account,
+  .useful {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 10px;
+  }
+
+  .follow h3,
+  .support h3,
+  .account h3,
+  .useful h3 {
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .support ul,
+  .account ul,
+  .useful ul {
+    padding-left: 0;
+    text-align: center;
+  }
+}*/
+
+.productsAvailable h2 {
+  background-color: black;
+  height: 40px;
+  align-items: center;
+  color: white;
+} 
